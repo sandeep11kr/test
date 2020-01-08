@@ -1,0 +1,615 @@
+{
+  "store": {
+    "name": "Fazoli's",
+    "address": "Fazoli's  13201 Ranch Road 620 N Suite S  Austin  TX 78727",
+    "zipcode": 78727
+  },
+  "recommendations": [
+    {
+      "index": 0,
+      "master_product_id": 16236495,
+      "recommendation": [
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 1,
+      "master_product_id": 16236291,
+      "recommendation": [
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 2,
+      "master_product_id": 16240167,
+      "recommendation": [
+        16252532,
+        16246088
+      ]
+    },
+    {
+      "index": 3,
+      "master_product_id": 16246904,
+      "recommendation": [
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 4,
+      "master_product_id": 16241391,
+      "recommendation": [
+        16236291,
+        16245680,
+        16246088
+      ]
+    },
+    {
+      "index": 5,
+      "master_product_id": 16241595,
+      "recommendation": [
+        16245680,
+        16238739,
+        16245476
+      ]
+    },
+    {
+      "index": 6,
+      "master_product_id": 16238331,
+      "recommendation": [
+        16245680,
+        16246088
+      ]
+    },
+    {
+      "index": 7,
+      "master_product_id": 16239963,
+      "recommendation": [
+        16245476,
+        16252532,
+        16238739
+      ]
+    },
+    {
+      "index": 8,
+      "master_product_id": 16248536,
+      "recommendation": [
+        16245680,
+        16238739,
+        16252532
+      ]
+    },
+    {
+      "index": 9,
+      "master_product_id": 16235067,
+      "recommendation": [
+        16238739,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 10,
+      "master_product_id": 16242411,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 11,
+      "master_product_id": 16234863,
+      "recommendation": [
+        16252532,
+        16247108,
+        16246088
+      ]
+    },
+    {
+      "index": 12,
+      "master_product_id": 16248128,
+      "recommendation": [
+        16245680,
+        16241799,
+        16245680
+      ]
+    },
+    {
+      "index": 13,
+      "master_product_id": 16238739,
+      "recommendation": [
+        16245680,
+        16241799,
+        16246088
+      ]
+    },
+    {
+      "index": 14,
+      "master_product_id": 16239759,
+      "recommendation": [
+        16246088,
+        16252532
+      ]
+    },
+    {
+      "index": 15,
+      "master_product_id": 16247516,
+      "recommendation": [
+        16252532,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 16,
+      "master_product_id": 16247108,
+      "recommendation": [
+        16252726,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 17,
+      "master_product_id": 16241799,
+      "recommendation": [
+        16246088,
+        16252726,
+        16246088
+      ]
+    },
+    {
+      "index": 18,
+      "master_product_id": 16237923,
+      "recommendation": [
+        16252532,
+        16245680,
+        16247108
+      ]
+    },
+    {
+      "index": 19,
+      "master_product_id": 16242615,
+      "recommendation": [
+        16252532,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 20,
+      "master_product_id": 16235475,
+      "recommendation": [
+        16245680,
+        16252726,
+        16246088
+      ]
+    },
+    {
+      "index": 21,
+      "master_product_id": 16241187,
+      "recommendation": [
+        16252726,
+        16238739,
+        16247108
+      ]
+    },
+    {
+      "index": 22,
+      "master_product_id": 16235271,
+      "recommendation": [
+        16252532,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 23,
+      "master_product_id": 16252532,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 24,
+      "master_product_id": 16238127,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 25,
+      "master_product_id": 16252338,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 26,
+      "master_product_id": 16239351,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 27,
+      "master_product_id": 16252338,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 28,
+      "master_product_id": 16246496,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 29,
+      "master_product_id": 16248740,
+      "recommendation": [
+        16246088,
+        16252726,
+        16246088
+      ]
+    },
+    {
+      "index": 30,
+      "master_product_id": 16248332,
+      "recommendation": [
+        16252532,
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 31,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 32,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 33,
+      "master_product_id": 16246088,
+      "recommendation": [
+        16247108,
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 34,
+      "master_product_id": 16246088,
+      "recommendation": [
+        16252532,
+        16247108,
+        16236291
+      ]
+    },
+    {
+      "index": 35,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 36,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 37,
+      "master_product_id": 16238535,
+      "recommendation": [
+        16252532,
+        16245680,
+        16246088
+      ]
+    },
+    {
+      "index": 38,
+      "master_product_id": 16246496,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 39,
+      "master_product_id": 16239147,
+      "recommendation": [
+        16247108,
+        16236291,
+        16247516
+      ]
+    },
+    {
+      "index": 40,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 41,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 42,
+      "master_product_id": 16240575,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 43,
+      "master_product_id": 16243023,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 44,
+      "master_product_id": 16238943,
+      "recommendation": [
+        16247108,
+        16236291,
+        16247516
+      ]
+    },
+    {
+      "index": 45,
+      "master_product_id": 16236495,
+      "recommendation": [
+        16238739,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 46,
+      "master_product_id": 16246496,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 47,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 48,
+      "master_product_id": 16238535,
+      "recommendation": [
+        16252532,
+        16245680,
+        16246088
+      ]
+    },
+    {
+      "index": 49,
+      "master_product_id": 16245476,
+      "recommendation": [
+        16247108,
+        16246088,
+        16241799
+      ]
+    },
+    {
+      "index": 50,
+      "master_product_id": 16248332,
+      "recommendation": [
+        16252532,
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 51,
+      "master_product_id": 16246496,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 52,
+      "master_product_id": 16248332,
+      "recommendation": [
+        16252532,
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 53,
+      "master_product_id": 16247720,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 54,
+      "master_product_id": 16248944,
+      "recommendation": [
+        16246088,
+        16252726,
+        16246088
+      ]
+    },
+    {
+      "index": 55,
+      "master_product_id": 16245680,
+      "recommendation": [
+        16247516,
+        16252532,
+        16236291
+      ]
+    },
+    {
+      "index": 56,
+      "master_product_id": 16238739,
+      "recommendation": [
+        16241799,
+        16245476,
+        16236291
+      ]
+    },
+    {
+      "index": 57,
+      "master_product_id": 16245680,
+      "recommendation": [
+        16247516,
+        16245680,
+        16252726
+      ]
+    },
+    {
+      "index": 58,
+      "master_product_id": 16240983,
+      "recommendation": [
+        16238739,
+        16245680,
+        16241799
+      ]
+    },
+    {
+      "index": 59,
+      "master_product_id": 16237719,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 60,
+      "master_product_id": 16243227,
+      "recommendation": [
+        16238739,
+        16245680,
+        16241799
+      ]
+    },
+    {
+      "index": 61,
+      "master_product_id": 16237515,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 62,
+      "master_product_id": 16236903,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 63,
+      "master_product_id": 16237311,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 64,
+      "master_product_id": 16236699,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 65,
+      "master_product_id": 16252726,
+      "recommendation": [
+        16236291,
+        16247108,
+        16246088
+      ]
+    },
+    {
+      "index": 66,
+      "master_product_id": 16236291,
+      "recommendation": [
+        16245680,
+        16246088,
+        16246088
+      ]
+    },
+    {
+      "index": 67,
+      "master_product_id": 16243431,
+      "recommendation": [
+        16236291,
+        16246088,
+        16246088
+      ]
+    }
+  ]
+}

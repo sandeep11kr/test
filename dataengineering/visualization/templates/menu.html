@@ -1,0 +1,53 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='css/itemdisplay.css') }}">
+{% extends "layout.html" %}
+{% block page_title %}Menu for Fazoli's at {{zip}}{% endblock %}
+{% block body %}
+{{ super() }}
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')">All</button>
+  {% for category in categories %}
+  <button class="btn" onclick="filterSelection('{{category.id}}')">{{category.name}}</button>
+  {% endfor %}
+</div>
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  {% for menu in menus %}
+  <div class="column {{menu.catid}}">
+    <div class="content">
+      <h4>{{menu.name}}</h4>
+      <p>{{menu.description}}</p>
+	  <p><button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal_{{menu.id}}">Select</button></p>
+		<!-- Modal -->
+		<div class="modal fade" id="myModal_{{menu.id}}" role="dialog">
+		<div class="modal-dialog">
+		  <!-- Modal content-->
+		  <div class="modal-content">
+		    <div class="modal-header">
+		      <button type="button" class="close" data-dismiss="modal">&times;</button>
+		      <h4 class="modal-title">Recommendations for <b>{{menu.name}}</b></h4>
+		    </div>
+		    <div class="modal-body">
+		      <ul class="list-group">
+		      	{% for i,recommendation in enumerate(menu.recommendations) %}
+				<li class="list-group-item d-flex justify-content-between align-items-center">
+				    <span><h2>{{i+1}}. {{recommendation.name}}</h2></span>
+				</li>
+				{% endfor %}
+			  </ul>
+		    </div>
+		    <div class="modal-footer">
+		      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		    </div>
+		  </div>
+		</div>
+		</div>
+    </div>
+  </div>
+  {% endfor %}
+<!-- END GRID -->
+</div>
+<script type="text/javascript" src="{{ url_for('static', filename='js/itemdisplay.js') }}"></script>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,484 @@
+category,name,description,price,calories
+Drinks + Desserts,New York Style Cheesecake,Graham cracker crust filled with rich and creamy New York Style Cheesecake and Strawberry Topping.,$3.29 ,510 Calories
+Drinks + Desserts,Triple Chocolate Cheesecake,Rich Dark Chocolate Cheesecake loaded with Chocolate Chips and topped with a layer of Chocolate Ganache. Served with HERSHEY'S® Chocolate Sauce.,$3.29 ,560 Calories
+Drinks + Desserts,Brownie,Chewy Chocolate Brownie Made with Ghirardelli Chocolate.,$1.69 ,240 Calories
+Drinks + Desserts,Chocolate Chunk Cookie,Soft and Chewy Chocolate Chunk Cookie.,$1.69 ,380 Calories
+Drinks + Desserts,Four Chocolate Chunk Cookies,4 Soft and Chewy Chocolate Chunk Cookies.,$5.00 ,380-1520 Calories
+Drinks + Desserts,Soft Drinks:Small Beverage,Additional beverage choices vary by location,,0-590 Calories
+Drinks + Desserts,Soft Drinks:Medium Beverage,Additional beverage choices vary by location,,0-590 Calories
+Drinks + Desserts,Fresh-Brewed Iced Tea:Small Beverage,Enjoy the refreshing taste of fresh-brewed Gold Peak® Iced Tea.,,0-380 Calories
+Drinks + Desserts,Bottled Water,,$2.29 ,0 Calories
+Drinks + Desserts,Soft Drinks:Large Beverage,Additional beverage choices vary by location,,0-590 Calories
+Drinks + Desserts,Fresh-Brewed Iced Tea:Medium Beverage,Enjoy the refreshing taste of fresh-brewed Gold Peak® Iced Tea.,,0-380 Calories
+Drinks + Desserts,Italian Lemon Ice:Original Italian Lemon Ice,"Choose from Original Italian Lemon Ice, Strawberry, or Blue Raspberry",,250 Calories
+Drinks + Desserts,Fresh-Brewed Iced Tea:Large Beverage,Enjoy the refreshing taste of fresh-brewed Gold Peak® Iced Tea.,,0-380 Calories
+Drinks + Desserts,Apple Juice,,$1.49 ,80 Calories
+Drinks + Desserts,Italian Lemon Ice:Blue Raspberry Italian Lemon Ice,"Choose from Original Italian Lemon Ice, Strawberry, or Blue Raspberry",,250 Calories
+Drinks + Desserts,Chocolate Milk,,$1.49 ,180 Calories
+Drinks + Desserts,Italian Lemon Ice:Strawberry Italian  Lemon Ice,"Choose from Original Italian Lemon Ice, Strawberry, or Blue Raspberry",,250 Calories
+Drinks + Desserts,Milk,,$1.49 ,110 Calories
+Family Meals,Fresh Tossed Duo:Fettuccine Alfredo & Fettuccine Alfredo,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Fresh Tossed Duo:Fettuccine Alfredo & Spaghetti Meat Sauce,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Fresh Tossed Duo:Fettuccine Alfredo & Spaghetti Marinara Sauce,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Family Side of Sauce:Family Side of Alfredo,,$3.00 ,
+Family Meals,Fresh Tossed Duo:Spaghetti Meat Sauce & Fettuccine Alfredo,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Family Side of Sauce:Family Side of Creamy Basil,,$3.00 ,
+Family Meals,Family Side of Sauce:Family Side of Meat Sauce,,$3.00 ,
+Family Meals,Fresh Tossed Duo:Spaghetti Meat Sauce & Spaghetti Meat Sauce,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Family Side of Sauce:Family Side of Marinara,,$3.00 ,
+Family Meals,Fresh Tossed Duo:Spaghetti Meat Sauce & Spaghetti Marinara Sauce,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Family Side of Sauce:Family Side of Spicy Tomato Pepper,,$3.00 ,
+Family Meals,Fresh Tossed Duo:Spaghetti Marinara Sauce & Fettuccine Alfredo,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Family Side of Sauce:Family Side of Garlic Butter,,$3.00 ,
+Family Meals,Fresh Tossed Duo:Spaghetti Marinara Sauce & Spaghetti Meat Sauce,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Fresh Tossed Duo:Spaghetti Marinara Sauce & Spaghetti Marinara Sauce,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,$15.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Fettuccine Alfredo Sauce & Baked Spaghetti,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Fettuccine Alfredo Sauce & Baked Ziti,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Six Extra Breadsticks,Six Extra Signature Garlic Breadsticks,$3.29 ,780 Calories
+Family Meals,Fresh Tossed & Oven Baked Duo:Fettuccine Alfredo Sauce & Baked Lasagna,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Fettuccine Alfredo Sauce & Baked Chicken Parmigiano,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Marinara Sauce & Baked Spaghetti,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Marinara Sauce & Baked Ziti,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Marinara Sauce & Baked Lasagna,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Marinara Sauce & Baked Chicken Parmigiano,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Meat Sauce & Baked Spaghetti,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Meat Sauce & Baked Ziti,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Meat Sauce & Baked Lasagna,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Family Meals,Fresh Tossed & Oven Baked Duo:Spaghetti Meat Sauce & Baked Chicken Parmigiano,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",$20.00 ,
+Fan Favorites,Baked Spaghetti,"Spaghetti with Marinara Sauce loaded with Mozzarella Cheese and baked to a golden, bubbly perfection.",$7.49 ,580 Calories
+Fan Favorites,Baked Spaghetti with Meatballs,"Spaghetti with Marinara Sauce loaded with Mozzarella Cheese and baked to a golden, bubbly perfection topped with Meatballs.",$8.49 ,690 Calories
+Fan Favorites,Baked Lasagna,Lasagna layered with Meat Sauce and Mozzarella and Provolone Cheeses.,$8.49 ,630 Calories
+Fan Favorites,Spaghetti with Meat Sauce,,$6.89 ,390-610 Calories
+Fan Favorites,Baked Ziti,"Penne with Marinara and Meat Sauce topped with Mozzarella and Provolone Cheeses and baked to a golden, bubbly perfection.",$7.99 ,570 Calories
+Fan Favorites,Small Spaghetti with Meat Sauce,,$4.99 ,390 Calories
+Fan Favorites,Spaghetti with Marinara,,$6.89 ,320-510 Calories
+Fan Favorites,Fettuccine with Alfredo,,$6.89 ,430-690 Calories
+Fan Favorites,Spaghetti with Meatballs,,$7.89 ,470-740 Calories
+Fan Favorites,Chicken Fettuccine Alfredo,,$7.89 ,490-810 Calories
+Fan Favorites,Spaghetti:Spaghetti Alfredo,Spaghetti + Sauce,,510-770 Calories
+Fan Favorites,Spaghetti:Spaghetti Creamy Basil,Spaghetti + Sauce,,510-770 Calories
+Fan Favorites,Fettuccine:Fettuccine Alfredo,Fettuccine + Sauce,,510-770 Calories
+Fan Favorites,Spaghetti:Spaghetti Marinara,Spaghetti + Sauce,,510-770 Calories
+Fan Favorites,Fettuccine:Fettuccine Creamy Basil,Fettuccine + Sauce,,510-770 Calories
+Fan Favorites,Penne:Penne Alfredo,Penne + Sauce,,510-770 Calories
+Fan Favorites,Spaghetti:Spaghetti Meat Sauce,Spaghetti + Sauce,,510-770 Calories
+Fan Favorites,Fettuccine:Fettuccine Marinara,Fettuccine + Sauce,,510-770 Calories
+Fan Favorites,Fettuccine:Fettuccine Meat Sauce,Fettuccine + Sauce,,510-770 Calories
+Fan Favorites,Ravioli:Ravioli Alfredo,Ravioli + Sauce,,420-680 Calories
+Fan Favorites,Penne:Penne Creamy Basil,Penne + Sauce,,510-770 Calories
+Fan Favorites,Spaghetti:Spaghetti Spicy Tomato,Spaghetti + Sauce,,510-770 Calories
+Fan Favorites,Fettuccine:Fettuccine Spicy Tomato,Fettuccine + Sauce,,510-770 Calories
+Fan Favorites,Ravioli:Ravioli Creamy Basil,Ravioli + Sauce,,420-680 Calories
+Fan Favorites,Ravioli:Ravioli Marinara,Ravioli + Sauce,,420-680 Calories
+Fan Favorites,Tortellini:Tortellini Alfredo,Tortellini + Sauce,,500-760 Calories
+Fan Favorites,Penne:Penne Marinara,Penne + Sauce,,510-770 Calories
+Fan Favorites,Ravioli:Ravioli Meat Sauce,Ravioli + Sauce,,420-680 Calories
+Fan Favorites,Tortellini:Tortellini Creamy Basil,Tortellini + Sauce,,500-760 Calories
+Fan Favorites,Penne:Penne Meat Sauce,Penne + Sauce,,510-770 Calories
+Fan Favorites,Whole Grain Rotini:Whole Grain Rotini Alfredo,Whole Grain Rotini + Sauce,,460-720 Calories
+Fan Favorites,Ravioli:Ravioli Spicy Tomato,Ravioli + Sauce,,420-680 Calories
+Fan Favorites,Tortellini:Tortellini Marinara,Tortellini + Sauce,,500-760 Calories
+Fan Favorites,Tortellini:Tortellini Meat Sauce,Tortellini + Sauce,,500-760 Calories
+Fan Favorites,Penne:Penne Spicy Tomato,Penne + Sauce,,510-770 Calories
+Fan Favorites,Whole Grain Rotini:Whole Grain Rotini Creamy Basil,Whole Grain Rotini + Sauce,,460-720 Calories
+Fan Favorites,Tortellini:Tortellini Spicy Tomato,Tortellini + Sauce,,500-760 Calories
+Fan Favorites,Whole Grain Rotini:Whole Grain Rotini  Marinara,Whole Grain Rotini + Sauce,,460-720 Calories
+Fan Favorites,Whole Grain Rotini:Whole Grain Rotini Meat Sauce,Whole Grain Rotini + Sauce,,460-720 Calories
+Fan Favorites,Whole Grain Rotini:Whole Grain Rotini Spicy Tomato,Whole Grain Rotini + Sauce,,460-720 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Kids Soft Drink,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Chocolate Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Kids Soft Drink,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Apple Juice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Kids Soft Drink,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Bottled Water,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Kids Soft Drink,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Chocolate Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Chocolate Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Kids Blue Raspberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Kids Original Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo & Kids Strawberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Kids Soft Drink,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Chocolate Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Apple Juice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Apple Juice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Bottled Water,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Apple Juice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Bottled Water,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Kids Blue Raspberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Kids Original Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Kids Soft Drink,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Chocolate Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Bottled Water,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Kids Soft Drink,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Kids Blue Raspberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Alfredo & Kids Strawberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Kids Soft Drink,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Chocolate Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Apple Juice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Kids Blue Raspberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Kids Original Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Chocolate Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Kids Original Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Chocolate Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Apple Juice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Bottled Water,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Apple Juice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Bottled Water,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Kids Blue Raspberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Cheese Pizza Slice:Kids Soft Drink,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Cheese Pizza Slice:Milk,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Bottled Water,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Alfredo & Kids Strawberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Kids Soft Drink,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Apple Juice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Kids Soft Drink,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Alfredo & Kids Strawberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Kids Blue Raspberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Kids Original Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Marinara & Kids Strawberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Kids Original Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Cheese Pizza Slice:Chocolate Milk,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Cheese Pizza Slice:Apple Juice,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Kids Blue Raspberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Bottled Water,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Milk,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Chocolate Milk,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Kids Soft Drink,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Kids Soft Drink,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Chocolate Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Apple Juice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Alfredo & Kids Strawberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Kids Soft Drink,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Chocolate Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Cheese Pizza Slice:Bottled Water,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Cheese Pizza Slice:Kids Blue Raspberry Lemon Ice,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Cheese Pizza Slice:Kids Original Lemon Ice,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Kids Original Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Chocolate Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Apple Juice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Kids Blue Raspberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Apple Juice,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Chocolate Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Apple Juice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Bottled Water,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Bottled Water,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Kids Blue Raspberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Kids Original Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Meat Sauce & Kids Strawberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Apple Juice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Bottled Water,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Kids Blue Raspberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Cheese Pizza Slice:Kids Strawberry Lemon Ice,Slice of Cheese Pizza and drink.,$3.99 ,280 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Marinara & Kids Strawberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Bottled Water,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Kids Blue Raspberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Kids Original Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Bottled Water,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Kids Blue Raspberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Kids Original Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Marinara & Kids Strawberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Kids Soft Drink,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Chocolate Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Kids Original Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Marinara & Kids Strawberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Kids Soft Drink,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Kids Original Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Alfredo & Kids Strawberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Kids Blue Raspberry Lemon Ice,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Kids Soft Drink,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Apple Juice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Bottled Water,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Kids Soft Drink,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Chocolate Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Marinara & Kids Strawberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Kids Soft Drink,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Kids Original Lemon Ice,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Chocolate Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Kids Blue Raspberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Apple Juice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Chocolate Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Kids Soft Drink,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Chocolate Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Pepperoni Pizza Slice:Kids Strawberry Lemon Ice,Slice of Pepperoni Pizza and drink.,$3.99 ,290 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Apple Juice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Kids Original Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Bottled Water,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Apple Juice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Apple Juice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Bottled Water,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Kids Blue Raspberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne Garlic Butter & Kids Strawberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Kids Blue Raspberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Bottled Water,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Chocolate Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Bottled Water,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Kids Original Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Kids Soft Drink,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Kids Original Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Meat Sauce & Kids Strawberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Kids Blue Raspberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Apple Juice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Bottled Water,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Kids Blue Raspberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Meat Sauce & Kids Strawberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Kids Soft Drink,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Chocolate Milk,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Apple Juice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Bottled Water,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Kids Soft Drink,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Chocolate Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Kids Original Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Kids Blue Raspberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Kids Original Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Kids Original Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Chocolate Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Apple Juice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Kids Blue Raspberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Kids Original Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Penne:Kids Penne No Sauce & Kids Strawberry Lemon Ice,Kids Penne with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Apple Juice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Bottled Water,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Kids Blue Raspberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Kids Original Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini Garlic Butter & Kids Strawberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Meat Sauce & Kids Strawberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Meat Sauce & Kids Strawberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Kids Soft Drink,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Marinara & Kids Strawberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Bottled Water,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Kids Soft Drink,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Kids Soft Drink,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Kids Soft Drink,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Kids Blue Raspberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Chocolate Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Kids Original Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Chocolate Milk,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Chocolate Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Apple Juice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Chocolate Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti Garlic Butter & Kids Strawberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Apple Juice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Bottled Water,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Kids Blue Raspberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Apple Juice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Bottled Water,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Apple Juice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Kids Soft Drink,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Kids Original Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Tortellini:Kids Tortellini No Sauce & Kids Strawberry Lemon Ice,Kids Tortellini with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Bottled Water,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Kids Blue Raspberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Kids Blue Raspberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Bottled Water,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Chocolate Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Kids Original Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Kids Original Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli Garlic Butter & Kids Strawberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Kids Blue Raspberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Apple Juice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Garlic Butter & Kids Strawberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Kids Soft Drink,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Kids Original Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Bottled Water,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Kids Soft Drink,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Meat Sauce & Kids Strawberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Kids Blue Raspberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Chocolate Milk,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Kids Soft Drink,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Kids Original Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti No Sauce & Kids Strawberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Chocolate Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Apple Juice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Apple Juice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Bottled Water,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Chocolate Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Kids Soft Drink,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Chocolate Milk,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Bottled Water,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Kids Blue Raspberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Kids Original Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Apple Juice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Apple Juice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Bottled Water,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Kids Blue Raspberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Ravioli:Kids Ravioli No Sauce & Kids Strawberry Lemon Ice,Kids Ravioli with choice of sauce and drink.,,180-270 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Bottled Water,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Kids Blue Raspberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Kids Blue Raspberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Kids Original Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine No Sauce & Kids Strawberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Kids Original Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Kids Original Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Spaghetti:Kids Spaghetti with Meatballs & Kids Strawberry Lemon Ice,Kids Spaghetti with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Kids Soft Drink,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini Garlic Butter & Kids Strawberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Kids Soft Drink,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Chocolate Milk,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Chocolate Milk,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Apple Juice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Apple Juice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Bottled Water,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Bottled Water,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Kids Blue Raspberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Kids Blue Raspberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Kids Original Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Kids Original Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+Kids Meals,Kids Whole Grain Rotini:Kids Whole Grain Rotini No Sauce & Kids Strawberry Lemon Ice,Kids Whole Grain Rotini with choice of sauce and drink.,,160-250 Calories
+Kids Meals,Kids Fettuccine:Kids Fettuccine Alfredo with Chicken & Kids Strawberry Lemon Ice,Kids Fettuccine with choice of sauce and drink.,,160-260 Calories
+New Items and Specials,Smoky Bacon Breadstick Bites,A cheesy pull-apart breadstick made with Mozzarella and Chopped Bacon. Served with Smoky Gouda dipping sauce.,$2.99 ,680 Calories
+New Items and Specials,Smoky Bacon Pasta Bake,"Orecchiette pasta topped with a creamy, smoky gouda sauce and chopped bacon, then baked with gouda and mozzarella cheeses.",$5.99 ,850 Calories
+New Items and Specials,Blackened Chicken Caesar Salad,"Romaine lettuce topped with grape tomatoes, chopped bacon, blackened chicken, shaved Parmesan and croutons.",$7.89 ,590 Calories
+New Items and Specials,S’mores Breadstick Bites,"Shareable dessert made from Fazoli’s breadsticks tossed in brown sugar, cinnamon, graham cracker crumbs and topped with toasted marshmallows and melted chocolate.",$2.99 ,1020 Calories
+Pasta Samplers,Classic Sampler,"Fettuccine Alfredo, Lasagna with Meat Sauce and Spaghetti and Meatball.",$7.99 ,820 Calories
+Pasta Samplers,Oven-Baked Classic Sampler,"Fettuccine Alfredo, Lasagna with Meat Sauce, Spaghetti and Meatball baked with Mozzarella & Provolone Cheeses.",$8.49 ,930 Calories
+Pasta Samplers,Ultimate Sampler,"Fettuccine Alfredo, Penne with Meat Sauce, Spaghetti and Meatball, Lasagna with Meat Sauce.",$8.49 ,1050 Calories
+Pizzas,"Cheese Pizza, Double Slice",2 Slices of Pizza Topped with Fazoli's Pizza Sauce and a blend of Mozzarella and Provolone Cheeses.,$5.29 ,560 Calories
+Pizzas,"Pepperoni Pizza, Double Slice","2 Slices of Pizza Topped with Fazoli's Pizza Sauce, Pepperoni and a blend of Mozzarella and Provolone Cheeses.",$5.29 ,590 Calories
+Pizzas,Whole Cheese Pizza,Topped with Fazoli's Pizza Sauce and a blend of Mozzarella and Provolone Cheeses. Includes 8 Breadsticks.,$12.99 ,280-2240 Calories
+Pizzas,Whole Pepperoni Pizza,"Topped with Fazoli's Pizza Sauce, Pepperoni and a blend of Mozzarella and Provolone Cheeses. Includes 8 Breadsticks.",$12.99 ,290-2320 Calories
+Sides + Extras,Make it a Meal:Side House Salad & Small Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side House Salad & Medium Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side House Salad & Large Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Add a Veggie:Side of Garlic Roasted Mushrooms,Add an extra portion of veggies,,
+Sides + Extras,Add a Veggie:Side of Marinated Tomatoes,Add an extra portion of veggies,,
+Sides + Extras,Make it a Meal:Side House Salad & Apple Juice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side House Salad & Bottled Water,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side House Salad & Chocolate Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Add a Veggie:Side of Parmesan Roasted Broccoli,Add an extra portion of veggies,,
+Sides + Extras,Add a Meat:Side of Bacon,Add an extra side of meat,,
+Sides + Extras,Add a Meat:Side of House Roasted Chicken,Add an extra side of meat,,
+Sides + Extras,Make it a Meal:Side House Salad & Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side House Salad & Original Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side House Salad & Blue Raspberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Two Extra Breadsticks,Two Extra Signature Garlic Breadsticks,$1.29 ,260 Calories
+Sides + Extras,Add a Meat:Side of Italian Sausage,Add an extra side of meat,,
+Sides + Extras,Make it a Meal:Side House Salad & Strawberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Small Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Medium Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Six Extra Breadsticks,Six Extra Signature Garlic Breadsticks,$3.29 ,780 Calories
+Sides + Extras,Add a Meat:Side of Meatballs,Add an extra side of meat,,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Large Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Twelve Extra Breadsticks,Twelve Extra Signature Garlic Breadsticks,$5.29 ,1560 Calories
+Sides + Extras,Add a Meat:Side of Spicy Sausage,Add an extra side of meat,,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Apple Juice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Bottled Water,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Side of Sauce:Side of Alfredo Sauce,,$0.50 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Chocolate Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Family Side of Sauce:Family Side of Alfredo,,$3.00 ,
+Sides + Extras,Side of Sauce:Side of Marinara Sauce,,$0.50 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Original Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Family Side of Sauce:Family Side of Creamy Basil,,$3.00 ,
+Sides + Extras,House Side Salad:No Dressing,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,Side of Sauce:Side of Meat Sauce,,$0.50 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Blue Raspberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Side Caesar Salad & Strawberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Caesar Side Salad:Signature Caesar,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,
+Sides + Extras,Family Side of Sauce:Family Side of Meat Sauce,,$3.00 ,
+Sides + Extras,Family Side of Sauce:Family Side of Marinara,,$3.00 ,
+Sides + Extras,House Side Salad:Buttermilk Ranch,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,House Side Salad:Fat Free Italian,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,House Side Salad:French,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,Side of Sauce:Side of Garlic Butter,,$0.50 ,
+Sides + Extras,Side of Sauce:Side of Creamy Basil Sauce,,$0.50 ,
+Sides + Extras,Side of Sauce:Side of Spicy Tomato Pepper Sauce,,$0.50 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Small Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Medium Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Large Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Caesar Side Salad:Buttermilk Ranch,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,
+Sides + Extras,Family Side of Sauce:Family Side of Spicy Tomato Pepper,,$3.00 ,
+Sides + Extras,House Side Salad:House Italian,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Apple Juice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Caesar Side Salad:Fat Free Italian,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,
+Sides + Extras,Caesar Side Salad:French,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,
+Sides + Extras,Family Side of Sauce:Family Side of Garlic Butter,,$3.00 ,
+Sides + Extras,House Side Salad:Red Wine Balsamic Vinaigrette,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Bottled Water,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Caesar Side Salad:House Italian,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,
+Sides + Extras,House Side Salad:Signature Caesar,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Chocolate Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Caesar Side Salad:Red Wine Vinaigrette,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Original Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Blue Raspberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Cheese Pizza & Strawberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Small Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Medium Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Large Soft Drink,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Apple Juice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Bottled Water,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Chocolate Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Milk,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Original Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Blue Raspberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Sides + Extras,Make it a Meal:Pepperoni Pizza & Strawberry Lemon Italian Ice,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,$3.99 ,
+Signature Bakes,Penne Creamy Basil Chicken,"Chicken, Roasted Grape Tomatoes, Alfredo Sauce, Creamy Basil Sauce, Mozzarella, Provolone and Parmesan Cheeses.",$8.49 ,840 Calories
+Signature Bakes,Chicken Broccoli Penne,"Chicken, Broccoli, Roasted Grape Tomatoes, Alfredo Sauce, Mozzarella, Provolone and Parmesan Cheeses.",$8.49 ,800 Calories
+Signature Bakes,Spicy Sausage Penne,"Penne covered in Spicy Tomato Pepper sauce with Spicy Sausage, Garlic-Roasted Mushrooms, Fresh Spinach, Crushed Calabrian Pepper, Mozzarella and Provolone Cheeses.",$8.49 ,740 Calories
+Signature Bakes,Spicy Penne with Chicken,"Penne covered in Spicy Tomato Pepper Sauce, with Roasted Chicken, Fresh Spinach, Crushed Calabrian Pepper, Garlic Roasted Mushroom, Mozzarella and Provolone Cheeses.",$8.49 ,670 Calories
+Signature Bakes,Chicken Parmigiano,"Spaghetti covered in Marinara Sauce with Crispy Chicken Breast covered with Alfredo Sauce, Mozzarella and Provolone Cheeses and baked.",$8.49 ,810 Calories
+Specialty Pastas,Three Cheese Tortellini,"Tortellini Pasta stuffed with Ricotta, Parmesan, and Romano Cheeses, topped with Oven-Roasted Chicken, Bacon, Peas, and Roasted Grape Tomatoes and finished with shaved Parmesan cheese.",$8.49 ,840 Calories
+Specialty Pastas,Chicken Carbonara,"Spaghetti topped with creamy Alfredo sauce with hand-chopped bacon, roasted chicken, Parmesan-roasted broccoli, and peas.  Topped with freshly ground black pepper and Parmesan cheese.",$8.49 ,880 Calories
+Specialty Pastas,Ultimate Spaghetti,"Marinara, Meatballs, Sausage, Bacon, Garlic-Roasted Mushrooms",$8.49 ,920 Calories
+Specialty Pastas,Ultimate Fettuccine,"Alfredo Sauce, Chicken, Bacon, Garlic-Roasted Mushrooms, Broccoli",$8.49 ,900 Calories
+Subs + Salads,The Primo Italiano,"Genoa Salami, seasoned Capicola, and baked Ham with sliced Mozzarella, tomatoes, red onion, shredded lettuce and pepperoncini topped with Red Wine Balsamic Vinaigrette served on a toasted Garlic Roll.",$7.49 ,840 Calories
+Subs + Salads,Meatball da Vinci,"Fazoli's Famous Meatballs, Pepperoni, and melted sliced Mozzarella cheese on a toasted Garlic Roll.",$7.49 ,920 Calories
+Subs + Salads,Turkey Club Classico,"Smoked Turkey, baked Ham, Bacon, sliced Mozzarella, Tomato, Red Onion, Shredded Lettuce and Parmesan Peppercorn Ranch on a toasted Garlic Roll.",$7.49 ,720 Calories
+Subs + Salads,Chicken Bacon Caesar,"Romaine topped with Oven-Roasted chicken, Bacon, Vine-Ripened Grape Tomatoes, and Shaved Parmesan in our Signature Caesar dressing.",$7.89 ,750 Calories
+Subs + Salads,House Side Salad:No Dressing,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,House Side Salad:Buttermilk Ranch,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,Caesar Side Salad:Signature Caesar,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,80 Calories
+Subs + Salads,House Side Salad:Fat Free Italian,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,Caesar Side Salad:Buttermilk Ranch,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,80 Calories
+Subs + Salads,House Side Salad:French,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,Caesar Side Salad:Fat Free Italian,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,80 Calories
+Subs + Salads,House Side Salad:House Italian,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,Caesar Side Salad:French,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,80 Calories
+Subs + Salads,House Side Salad:Red Wine Balsamic Vinaigrette,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,House Side Salad:Signature Caesar,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",$2.79 ,40-240 Calories
+Subs + Salads,Caesar Side Salad:House Italian,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,80 Calories
+Subs + Salads,Caesar Side Salad:Red Wine Vinaigrette,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,$2.79 ,80 Calories
+Vegetarian Options,Baked Spaghetti,"Spaghetti with Marinara Sauce loaded with Mozzarella Cheese and baked to a golden, bubbly perfection.",$7.49 ,580 Calories
+Vegetarian Options,Spaghetti with Marinara,,$6.89 ,320-510 Calories
+Vegetarian Options,Fettuccine with Alfredo,,$6.89 ,430-690 Calories
+Vegetarian Options,"Cheese Pizza, Double Slice",2 Slices of Pizza Topped with Fazoli's Pizza Sauce and a blend of Mozzarella and Provolone Cheeses.,$5.29 ,560 Calories
+Vegetarian Options,Whole Cheese Pizza,Topped with Fazoli's Pizza Sauce and a blend of Mozzarella and Provolone Cheeses. Includes 8 Breadsticks.,$12.99 ,280-2240 Calories
+Vegetarian Options,House Side Salad:No Dressing,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories
+Vegetarian Options,House Side Salad:Buttermilk Ranch,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories
+Vegetarian Options,House Side Salad:Fat Free Italian,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories
+Vegetarian Options,House Side Salad:French,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories
+Vegetarian Options,House Side Salad:House Italian,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories
+Vegetarian Options,House Side Salad:Red Wine Balsamic Vinaigrette,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories
+Vegetarian Options,House Side Salad:Signature Caesar,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",$2.79 ,40-240 Calories

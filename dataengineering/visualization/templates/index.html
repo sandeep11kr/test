@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block page_title %}Welcome{% endblock %}
+{% block body %}
+    {{ super() }}
+
+    <p>Stores at <b>Fazoli's</b></p>
+    <div class="list-group">
+      {% for store in stores %}
+	  <a href="/menu/{{store.zipcode}}" class="list-group-item list-group-item-action flex-column align-items-start active">
+	    <div class="d-flex w-100 justify-content-between">
+	      <h5 class="mb-1">{{store.name}}</h5>
+	      <h2>{{store.zipcode}}</h2>
+	    </div>
+	    <p class="mb-1">{{store.address}}</p>
+	  </a>
+	  {% endfor %}
+	</div>
+{% endblock %}

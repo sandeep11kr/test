@@ -1,0 +1,1 @@
+nohup ./mvnw spring-boot:run &

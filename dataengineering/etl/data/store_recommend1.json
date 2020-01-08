@@ -1,0 +1,25 @@
+{
+  "store": {
+    "name": "Fazoli's",
+    "address": "Fazoli's  13201 Ranch Road 620 N Suite S  Austin  TX 78727",
+    "zipcode": 78727
+  },
+  "recommendations": [
+    {
+      "index": 0,
+      "master_product_id": 16236495,
+      "recommendation": [
+        16236291,
+        16246088
+      ]
+    },
+    {
+      "index": 1,
+      "master_product_id": 16236291,
+      "recommendation": [
+        16236291,
+        16246088
+      ]
+    }
+  ]
+}

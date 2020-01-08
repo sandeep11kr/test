@@ -1,0 +1,70 @@
+master_product_id,name,description,calories,category
+0,Add a Meat=>Side of Bacon,Add an extra side of meat,,Sides + Extras
+1,Add a Meat=>Side of House Roasted Chicken,Add an extra side of meat,,Sides + Extras
+2,Add a Meat=>Side of Italian Sausage,Add an extra side of meat,,Sides + Extras
+3,Add a Meat=>Side of Meatballs,Add an extra side of meat,,Sides + Extras
+4,Add a Meat=>Side of Spicy Sausage,Add an extra side of meat,,Sides + Extras
+5,Add a Veggie=>Side of Garlic Roasted Mushrooms,Add an extra portion of veggies,,Sides + Extras
+6,Add a Veggie=>Side of Marinated Tomatoes,Add an extra portion of veggies,,Sides + Extras
+7,Add a Veggie=>Side of Parmesan Roasted Broccoli,Add an extra portion of veggies,,Sides + Extras
+8,Baked Lasagna,Lasagna layered with Meat Sauce and Mozzarella and Provolone Cheeses.,630 Calories,Fan Favorites
+9,Baked Spaghetti,"Spaghetti with Marinara Sauce loaded with Mozzarella Cheese and baked to a golden, bubbly perfection.",580 Calories,"['Vegetarian Options', 'Fan Favorites/Vegetarian Options', 'Fan Favorites']"
+10,Baked Spaghetti with Meatballs,"Spaghetti with Marinara Sauce loaded with Mozzarella Cheese and baked to a golden, bubbly perfection topped with Meatballs.",690 Calories,Fan Favorites
+11,Baked Ziti,"Penne with Marinara and Meat Sauce topped with Mozzarella and Provolone Cheeses and baked to a golden, bubbly perfection.",570 Calories,Fan Favorites
+12,Blackened Chicken Caesar Salad,"Romaine lettuce topped with grape tomatoes, chopped bacon, blackened chicken, shaved Parmesan and croutons.",590 Calories,New Items and Specials
+13,Blackened Shrimp and Chicken Bake,"Shrimp simmered in a smoky gouda cheese sauce with blackened chicken, fire-roasted red peppers on top of orecchiette pasta and baked with mozzarella and gouda cheese.",910 Calories,New Items and Specials
+14,Brownie,Chewy Chocolate Brownie Made with Ghirardelli Chocolate.,240 Calories,Drinks + Desserts
+15,Caesar Side Salad,Romaine topped with shaved Parmesan and crunchy Focaccia croutons. Served with our Signature Caesar dressing.,80 Calories,"['Subs + Salads/Sides + Extras', 'Subs + Salads', 'Sides + Extras']"
+16,"Cheese Pizza, Double Slice",2 Slices of Pizza Topped with Fazoli's Pizza Sauce and a blend of Mozzarella and Provolone Cheeses.,560 Calories,"['Pizzas/Vegetarian Options', 'Vegetarian Options', 'Pizzas']"
+17,Chicken Bacon Caesar,"Romaine topped with Oven-Roasted chicken, Bacon, Vine-Ripened Grape Tomatoes, and Shaved Parmesan in our Signature Caesar dressing.",750 Calories,Subs + Salads
+18,Chicken Broccoli Penne,"Chicken, Broccoli, Roasted Grape Tomatoes, Alfredo Sauce, Mozzarella, Provolone and Parmesan Cheeses.",800 Calories,Signature Bakes
+19,Chicken Carbonara,"Spaghetti topped with creamy Alfredo sauce with hand-chopped bacon, roasted chicken, Parmesan-roasted broccoli, and peas.  Topped with freshly ground black pepper and Parmesan cheese.",880 Calories,Specialty Pastas
+20,Chicken Parmigiano,"Spaghetti covered in Marinara Sauce with Crispy Chicken Breast covered with Alfredo Sauce, Mozzarella and Provolone Cheeses and baked.",810 Calories,Signature Bakes
+21,Chocolate Chunk Cookie,Soft and Chewy Chocolate Chunk Cookie.,380 Calories,Drinks + Desserts
+22,Classic Sampler,"Fettuccine Alfredo, Lasagna with Meat Sauce and Spaghetti and Meatball.",820 Calories,Pasta Samplers
+23,Fettuccine,Fettuccine + Sauce,510-770 Calories,Fan Favorites
+24,Four Chocolate Chunk Cookies,4 Soft and Chewy Chocolate Chunk Cookies.,380-1520 Calories,Drinks + Desserts
+25,Fresh Tossed & Oven Baked Duo,"Choice of one Fresh-Tossed Pasta (Spaghetti with meat or marinara, Fettuccine Alfredo) & one Oven-Baked Pasta (Baked Spaghetti, Baked Ziti, Baked Lasagna, Chicken Parmigiano)",,Family Meals
+26,Fresh Tossed Duo,Fettuccine Alfredo & Choice of Spaghetti with Meat or Marinara + 8 Breadsticks,,Family Meals
+27,Fresh-Brewed Iced Tea,Enjoy the refreshing taste of fresh-brewed Gold Peak® Iced Tea.,0-380 Calories,Drinks + Desserts
+28,House Side Salad,"Romaine lettuce blend topped with Grape Tomatoes, Shredded Mozzarella and Cheddar, Red Cabbage, Shredded Carrots, served with your choice of dressing.",40-240 Calories,"['Subs + Salads', 'Subs + Salads/Vegetarian Options/Sides + Extras', 'Sides + Extras']"
+29,House Side Salad,"Romaine lettuce blend topped with grape tomatoes, red onion and shredded Mozzarella Cheese. Served with your choice of dressing.",40-240 Calories,Vegetarian Options
+30,Italian Lemon Ice,"Choose from Original Italian Lemon Ice, Strawberry, or Blue Raspberry",250 Calories,Drinks + Desserts
+31,Kids Cheese Pizza Slice,Slice of Cheese Pizza and drink.,280 Calories,Kids Meals
+32,Kids Fettuccine,Kids Fettuccine with choice of sauce and drink.,160-260 Calories,Kids Meals
+33,Kids Penne,Kids Penne with choice of sauce and drink.,160-250 Calories,Kids Meals
+34,Kids Pepperoni Pizza Slice,Slice of Pepperoni Pizza and drink.,290 Calories,Kids Meals
+35,Kids Ravioli,Kids Ravioli with choice of sauce and drink.,180-270 Calories,Kids Meals
+36,Kids Spaghetti,Kids Spaghetti with choice of sauce and drink.,160-250 Calories,Kids Meals
+37,Kids Tortellini,Kids Tortellini with choice of sauce and drink.,180-270 Calories,Kids Meals
+38,Kids Whole Grain Rotini,Kids Whole Grain Rotini with choice of sauce and drink.,160-250 Calories,Kids Meals
+39,Make it a Meal,Add a Small Drink & Pizza Slice or House/Caesar Side Salad to Any Entree.,,Sides + Extras
+40,Meatball da Vinci,"Fazoli's Famous Meatballs, Pepperoni, and melted sliced Mozzarella cheese on a toasted Garlic Roll.",920 Calories,Subs + Salads
+41,New York Style Cheesecake,Graham cracker crust filled with rich and creamy New York Style Cheesecake and Strawberry Topping.,510 Calories,Drinks + Desserts
+42,Oven-Baked Classic Sampler,"Fettuccine Alfredo, Lasagna with Meat Sauce, Spaghetti and Meatball baked with Mozzarella & Provolone Cheeses.",930 Calories,Pasta Samplers
+43,Penne,Penne + Sauce,510-770 Calories,Fan Favorites
+44,Penne Creamy Basil Chicken,"Chicken, Roasted Grape Tomatoes, Alfredo Sauce, Creamy Basil Sauce, Mozzarella, Provolone and Parmesan Cheeses.",840 Calories,Signature Bakes
+45,"Pepperoni Pizza, Double Slice","2 Slices of Pizza Topped with Fazoli's Pizza Sauce, Pepperoni and a blend of Mozzarella and Provolone Cheeses.",590 Calories,Pizzas
+46,Ravioli,Ravioli + Sauce,420-680 Calories,Fan Favorites
+47,Six Extra Breadsticks,Six Extra Signature Garlic Breadsticks,780 Calories,"['Family Meals/Sides + Extras', 'Sides + Extras', 'Family Meals']"
+48,Smoky Bacon Breadstick Bites,A cheesy pull-apart breadstick made with Mozzarella and Chopped Bacon. Served with Smoky Gouda dipping sauce.,680 Calories,New Items and Specials
+49,Smoky Bacon Pasta Bake,"Orecchiette pasta topped with a creamy, smoky gouda sauce and chopped bacon, then baked with gouda and mozzarella cheeses.",850 Calories,New Items and Specials
+50,Smoky Chicken Carbonara Bake,"Spaghetti topped with smoky gouda cheese sauce, chopped bacon, blackened chicken, roasted broccoli and fire-roasted red peppers. Baked with Mozzarella and Gouda cheeses.",950 Calories,New Items and Specials
+51,Soft Drinks,Additional beverage choices vary by location,0-590 Calories,Drinks + Desserts
+52,Spaghetti,Spaghetti + Sauce,510-770 Calories,Fan Favorites
+53,Spicy Penne with Chicken,"Penne covered in Spicy Tomato Pepper Sauce, with Roasted Chicken, Fresh Spinach, Crushed Calabrian Pepper, Garlic Roasted Mushroom, Mozzarella and Provolone Cheeses.",670 Calories,Signature Bakes
+54,Spicy Sausage Penne,"Penne covered in Spicy Tomato Pepper sauce with Spicy Sausage, Garlic-Roasted Mushrooms, Fresh Spinach, Crushed Calabrian Pepper, Mozzarella and Provolone Cheeses.",740 Calories,Signature Bakes
+55,S’mores Breadstick Bites,"Shareable dessert made from Fazoli’s breadsticks tossed in brown sugar, cinnamon, graham cracker crumbs and topped with toasted marshmallows and melted chocolate.",1020 Calories,New Items and Specials
+56,The Primo Italiano,"Genoa Salami, seasoned Capicola, and baked Ham with sliced Mozzarella, tomatoes, red onion, shredded lettuce and pepperoncini topped with Red Wine Balsamic Vinaigrette served on a toasted Garlic Roll.",840 Calories,Subs + Salads
+57,Three Cheese Tortellini,"Tortellini Pasta stuffed with Ricotta, Parmesan, and Romano Cheeses, topped with Oven-Roasted Chicken, Bacon, Peas, and Roasted Grape Tomatoes and finished with shaved Parmesan cheese.",840 Calories,Specialty Pastas
+58,Tortellini,Tortellini + Sauce,500-760 Calories,Fan Favorites
+59,Triple Chocolate Cheesecake,Rich Dark Chocolate Cheesecake loaded with Chocolate Chips and topped with a layer of Chocolate Ganache. Served with HERSHEY'S® Chocolate Sauce.,560 Calories,Drinks + Desserts
+60,Turkey Club Classico,"Smoked Turkey, baked Ham, Bacon, sliced Mozzarella, Tomato, Red Onion, Shredded Lettuce and Parmesan Peppercorn Ranch on a toasted Garlic Roll.",720 Calories,Subs + Salads
+61,Twelve Extra Breadsticks,Twelve Extra Signature Garlic Breadsticks,1560 Calories,Sides + Extras
+62,Two Extra Breadsticks,Two Extra Signature Garlic Breadsticks,260 Calories,Sides + Extras
+63,Ultimate Fettuccine,"Alfredo Sauce, Chicken, Bacon, Garlic-Roasted Mushrooms, Broccoli",900 Calories,Specialty Pastas
+64,Ultimate Sampler,"Fettuccine Alfredo, Penne with Meat Sauce, Spaghetti and Meatball, Lasagna with Meat Sauce.",1050 Calories,Pasta Samplers
+65,Ultimate Spaghetti,"Marinara, Meatballs, Sausage, Bacon, Garlic-Roasted Mushrooms",920 Calories,Specialty Pastas
+66,Whole Cheese Pizza,Topped with Fazoli's Pizza Sauce and a blend of Mozzarella and Provolone Cheeses. Includes 8 Breadsticks.,280-2240 Calories,"['Pizzas/Vegetarian Options', 'Vegetarian Options', 'Pizzas']"
+67,Whole Grain Rotini,Whole Grain Rotini + Sauce,460-720 Calories,Fan Favorites
+68,Whole Pepperoni Pizza,"Topped with Fazoli's Pizza Sauce, Pepperoni and a blend of Mozzarella and Provolone Cheeses. Includes 8 Breadsticks.",290-2320 Calories,Pizzas

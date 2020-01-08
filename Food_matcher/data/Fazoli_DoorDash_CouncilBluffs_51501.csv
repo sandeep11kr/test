@@ -1,0 +1,73 @@
+Fazoli's  3134 Dial Dr  Council Bluffs  IA 51501  USA
+Timing: 10:30AM - 9:30PM
+
+Name,ID,Category,Description,Price,Calories,Suggested Item
+01. Spaghetti with Marinara or Meat Sauce=>Marinara,48608299.0,Fazoli's Fan Favorites,( ,6.79,390/610,2 Breadsticks; 08. Baked Ziti; 07. Baked Lasagna
+01. Spaghetti with Marinara or Meat Sauce=>Meat Sauce,48608299.0,Fazoli's Fan Favorites,( ,6.79,390/610,2 Breadsticks; 08. Baked Ziti; 07. Baked Lasagna
+02. Spaghetti with Meatballs,48608305.0,Popular Items/Fazoli's Fan Favorites,( ,7.79,740,12 Breadsticks; 2 Breadsticks; 03. Fettuccine Alfredo
+03. Fettuccine Alfredo,48608304.0,Popular Items/Fazoli's Fan Favorites,Vegetarian Friendly ( ,6.79,690,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+04. Chicken Fettuccine Alfredo,48608301.0,Fazoli's Fan Favorites,( ,7.79,810,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+05. Baked Spaghetti,48608300.0,Popular Items/Fazoli's Fan Favorites,Vegetarian Friendly ( ,7.49,580,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+06. Baked Spaghetti with Meatballs,48608302.0,Fazoli's Fan Favorites,( ,8.49,800,15. Oven-Baked Classic; 05. Baked Spaghetti; 2 Breadsticks
+07. Baked Lasagna,48608298.0,Popular Items/Fazoli's Fan Favorites,( ,7.99,630,04. Chicken Fettuccine Alfredo; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+08. Baked Ziti,48608303.0,Fazoli's Fan Favorites,(  Served with Meat Sauce,7.49,570,05. Baked Spaghetti; 15. Oven-Baked Classic; 12 Breadsticks
+09. Spicy Penne with Chicken or Sausage=>Chicken,48608283.0,Signature Pasta Bakes,"Spicy tomato pepper sauce, chicken or sausage, fresh spinach, seasoned mushrooms.  ( ",7.99,670/740,07. Baked Lasagna; 2 Breadsticks; 15. Oven-Baked Classic
+09. Spicy Penne with Chicken or Sausage=>Sausage,48608283.0,Signature Pasta Bakes,"Spicy tomato pepper sauce, chicken or sausage, fresh spinach, seasoned mushrooms.  ( ",7.99,670/740,07. Baked Lasagna; 2 Breadsticks; 15. Oven-Baked Classic
+10. Creamy Basil Chicken Penne,48608281.0,Signature Pasta Bakes,"Pesto alfredo, chicken, roasted tomatoes.  ( ",7.99,840,Meatball Da Vinci; 11. Chicken Broccoli Penne; 12 Breadsticks
+11. Chicken Broccoli Penne,48608282.0,Signature Pasta Bakes,"Alfredo, chicken, parmesan-roasted broccoli, tomatoes. ( ",8.49,800,08. Baked Ziti; Extra Cheese; 12 Breadsticks
+12 Breadsticks,53649423.0,Extras,,5.0,,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+12. Baked Chicken Parmigiano,48608284.0,Popular Items/Signature Pasta Bakes,( ,8.49,840,04. Chicken Fettuccine Alfredo; 07. Baked Lasagna; 15. Oven-Baked Classic
+14. Ultimate,48608272.0,Popular Items/Samplers,"Fettuccine alfredo, penne with meat sauce, spaghetti & meatball, lasagna with meat sauce. ( ",8.29,1050,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+15. Oven-Baked Classic,48608273.0,Popular Items/Samplers,"Fettuccine alfredo, lasagna with meat sauce, spaghetti & meatball, baked with mozzarella & provolone cheeses. ( ",8.79,930,04. Chicken Fettuccine Alfredo; 07. Baked Lasagna; 12. Baked Chicken Parmigiano
+16. Classic,48608274.0,Samplers,"Fettuccine alfredo, lasagna with meat sauce, spaghetti & meatball. ( ",7.79,820,Meatball Da Vinci; 6 Breadsticks; 04. Chicken Fettuccine Alfredo
+2 Breadsticks,53649422.0,Extras,,1.0,,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+6 Breadsticks,66848085.0,Extras,,3.0,,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Apple Juice,48608411.0,Drinks + Italian Ice,( ,1.09,80,10. Creamy Basil Chicken Penne; 6 Breadsticks; 08. Baked Ziti
+Bottled Water,48608414.0,Drinks + Italian Ice,(0 ,2.19,,02. Spaghetti with Meatballs; 12 Breadsticks; 15. Oven-Baked Classic
+Caesar Side Salad,48608368.0,Salads,"Parmesan, croutons, caesar dressing. ( ",2.49,80,2 Breadsticks; 03. Fettuccine Alfredo; 15. Oven-Baked Classic
+Cheesecake=>New York Style,48608353.0,Desserts,New York Style or Triple Chocolate. ( ,2.99,600/530,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Cheesecake=>Triple Chocolate,48608353.0,Desserts,New York Style or Triple Chocolate. ( ,2.99,600/530,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Chicken Bacon Caesar,48608366.0,Salads,"Romaine, chicken, bacon, grape tomatoes, parmesan, caesar dressing. ( ",7.49,620,11. Chicken Broccoli Penne; 08. Baked Ziti; 02. Spaghetti with Meatballs
+Chicken Carbonara=>Fettuccinne,48608263.0,Popular Items/Specialty Pastas,"Alfredo, chicken, bacon, parmesan-roasted broccoli, peas. ( ",7.99,880,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+Chicken Carbonara=>Penne,48608263.0,Popular Items/Specialty Pastas,"Alfredo, chicken, bacon, parmesan-roasted broccoli, peas. ( ",7.99,880,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+Chicken Carbonara=>Spaghetti,48608263.0,Popular Items/Specialty Pastas,"Alfredo, chicken, bacon, parmesan-roasted broccoli, peas. ( ",7.99,880,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+Chicken Carbonara=>Whole Grain Rotini,48608263.0,Popular Items/Specialty Pastas,"Alfredo, chicken, bacon, parmesan-roasted broccoli, peas. ( ",7.99,880,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+Chocolate Chunk Cookie or Brownie=>Brownie,48608355.0,Desserts,( ,1.49,380/240,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+Chocolate Chunk Cookie or Brownie=>Cookie,48608355.0,Desserts,( ,1.49,380/240,6 Breadsticks; 12 Breadsticks; 2 Breadsticks
+Chocolate Milk,48608412.0,Drinks + Italian Ice,( ,1.09,180,15. Oven-Baked Classic; 10. Creamy Basil Chicken Penne; 12. Baked Chicken Parmigiano
+Double Slice=>Cheese,48608377.0,Popular Items/Pizzas,2 slices of pizza topped with Fazoli's pizza sauce and a blend of mozzarella and provolone cheeses. ( ,4.99,560/590,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Double Slice=>Pepperoni,48608377.0,Popular Items/Pizzas,2 slices of pizza topped with Fazoli's pizza sauce and a blend of mozzarella and provolone cheeses. ( ,4.99,560/590,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Extra Cheese,66848104.0,Extras,,0.5,,04. Chicken Fettuccine Alfredo; 6 Breadsticks; 2 Breadsticks
+House Side Salad,48608369.0,Salads,"Grape tomatoes, red onion, shredded mozzarella, served with your choice of dressing. Vegetarian Friendly ( ",2.49,70,03. Fettuccine Alfredo; 07. Baked Lasagna; 15. Oven-Baked Classic
+Italian Ice=>Blue Raspberry,48608416.0,Drinks + Italian Ice,"Original Lemon, Strawberry, Blue Raspberry (  ( ",2.59,250-340,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Italian Ice=>Original Lemon,48608416.0,Drinks + Italian Ice,"Original Lemon, Strawberry, Blue Raspberry (  ( ",2.59,250-340,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Italian Ice=>Strawberry,48608416.0,Drinks + Italian Ice,"Original Lemon, Strawberry, Blue Raspberry (  ( ",2.59,250-340,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Meatball Da Vinci,48608372.0,Popular Items/Primo Submarinos,"Meatballs, pepperoni, mozzarella. ( ",7.29,920,04. Chicken Fettuccine Alfredo; 15. Oven-Baked Classic; 12 Breadsticks
+Pasta Your Way=>Fettuccine,48608418.0,Pasta Your Way,,6.79,,2 Breadsticks; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Pasta Your Way=>Penne,48608418.0,Pasta Your Way,,6.79,,2 Breadsticks; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Pasta Your Way=>Ravioli,48608418.0,Pasta Your Way,,6.79,,2 Breadsticks; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Pasta Your Way=>Spaghetti,48608418.0,Pasta Your Way,,6.79,,2 Breadsticks; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Pasta Your Way=>Tortellini,48608418.0,Pasta Your Way,,6.79,,2 Breadsticks; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Pasta Your Way=>Whole Grain Rotini,48608418.0,Pasta Your Way,,6.79,,2 Breadsticks; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Soft Drinks=>Coke,48608417.0,Drinks + Italian Ice,We have a variety of Coca-Cola drinks available in the restaurant.,2.09,,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Soft Drinks=>Diet Coke,48608417.0,Drinks + Italian Ice,We have a variety of Coca-Cola drinks available in the restaurant.,2.09,,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Soft Drinks=>Sprite,48608417.0,Drinks + Italian Ice,We have a variety of Coca-Cola drinks available in the restaurant.,2.09,,07. Baked Lasagna; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+The Primo Italiano,48608371.0,Primo Submarinos,"Genoa salami, capicola, ham, mozzarella, tomatoes, red onion, pepperoncini, lettuce, red wine balsamic vinaigrette.  ( ",7.29,840,03. Fettuccine Alfredo; 15. Oven-Baked Classic; 2 Breadsticks
+Three-Cheese Tortellini Alfredo=>Fettuccinne,48608260.0,Specialty Pastas,"Alfredo, chicken, bacon, grape tomatoes, peas. ( ",7.99,840,6 Breadsticks; 02. Spaghetti with Meatballs; 12 Breadsticks
+Three-Cheese Tortellini Alfredo=>Penne,48608260.0,Specialty Pastas,"Alfredo, chicken, bacon, grape tomatoes, peas. ( ",7.99,840,6 Breadsticks; 02. Spaghetti with Meatballs; 12 Breadsticks
+Three-Cheese Tortellini Alfredo=>Spaghetti,48608260.0,Specialty Pastas,"Alfredo, chicken, bacon, grape tomatoes, peas. ( ",7.99,840,6 Breadsticks; 02. Spaghetti with Meatballs; 12 Breadsticks
+Three-Cheese Tortellini Alfredo=>Whole Grain Rotini,48608260.0,Specialty Pastas,"Alfredo, chicken, bacon, grape tomatoes, peas. ( ",7.99,840,6 Breadsticks; 02. Spaghetti with Meatballs; 12 Breadsticks
+Top It Meats,66848111.0,Extras,,1.5,,05. Baked Spaghetti; 03. Fettuccine Alfredo; 07. Baked Lasagna
+Top It Veggies,66848138.0,Extras,,1.0,,12 Breadsticks; 08. Baked Ziti; 15. Oven-Baked Classic
+Turkey Club Classico,48608370.0,Primo Submarinos,"Smoked turkey, ham, bacon, mozzarella, tomatoes, red onion, lettuce, parmesan peppercorn ranch.",7.29,,2 Breadsticks; Meatball Da Vinci; 05. Baked Spaghetti
+Ultimate Fettuccine=>Fettuccinne,48608262.0,Specialty Pastas,"Alfredo, chicken, bacon, garlic-roasted mushrooms, broccoli. ( ",7.99,900,11. Chicken Broccoli Penne; 12 Breadsticks; 2 Breadsticks
+Ultimate Fettuccine=>Penne,48608262.0,Specialty Pastas,"Alfredo, chicken, bacon, garlic-roasted mushrooms, broccoli. ( ",7.99,900,11. Chicken Broccoli Penne; 12 Breadsticks; 2 Breadsticks
+Ultimate Fettuccine=>Spaghetti,48608262.0,Specialty Pastas,"Alfredo, chicken, bacon, garlic-roasted mushrooms, broccoli. ( ",7.99,900,11. Chicken Broccoli Penne; 12 Breadsticks; 2 Breadsticks
+Ultimate Fettuccine=>Whole Grain Rotini,48608262.0,Specialty Pastas,"Alfredo, chicken, bacon, garlic-roasted mushrooms, broccoli. ( ",7.99,900,11. Chicken Broccoli Penne; 12 Breadsticks; 2 Breadsticks
+Ultimate Spaghetti=>Fettuccinne,48608264.0,Specialty Pastas,"Marinara, meatballs, sausage, bacon, seasoned mushrooms ( ",7.99,920,15. Oven-Baked Classic; 03. Fettuccine Alfredo; Extra Cheese
+Ultimate Spaghetti=>Penne,48608264.0,Specialty Pastas,"Marinara, meatballs, sausage, bacon, seasoned mushrooms ( ",7.99,920,15. Oven-Baked Classic; 03. Fettuccine Alfredo; Extra Cheese
+Ultimate Spaghetti=>Spaghetti,48608264.0,Specialty Pastas,"Marinara, meatballs, sausage, bacon, seasoned mushrooms ( ",7.99,920,15. Oven-Baked Classic; 03. Fettuccine Alfredo; Extra Cheese
+Ultimate Spaghetti=>Whole Grain Rotini,48608264.0,Specialty Pastas,"Marinara, meatballs, sausage, bacon, seasoned mushrooms ( ",7.99,920,15. Oven-Baked Classic; 03. Fettuccine Alfredo; Extra Cheese
+White Milk,48608415.0,Drinks + Italian Ice,( ,1.09,110,2 Breadsticks; 12. Baked Chicken Parmigiano; 15. Oven-Baked Classic
+Whole Pizza=>Cheese,48608375.0,Pizzas,"Topped with Fazoli's pizza sauce, pepperoni and a blend of mozzarella and provolone cheeses.  ( ",10.99,280-290,Extra Cheese; 08. Baked Ziti; 12 Breadsticks
+Whole Pizza=>Pepperoni,48608375.0,Pizzas,"Topped with Fazoli's pizza sauce, pepperoni and a blend of mozzarella and provolone cheeses.  ( ",10.99,280-290,Extra Cheese; 08. Baked Ziti; 12 Breadsticks

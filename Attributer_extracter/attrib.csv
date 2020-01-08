@@ -1,0 +1,172 @@
+Values_mod,Item_mod,Item,Attribute,Values,Attribute_mod,Values_mod
+spaghetti,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,spaghetti
+fettuccine,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,fettuccine
+ziti,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,ziti
+tortellini,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,tortellini
+rotini,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,rotini
+ravioli,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,ravioli
+penne,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,penne
+lasagna,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,lasagna
+lasagne,pasta,pastas,Type,"Spaghetti, Fettuccine, Ziti, Tortellini, Rotini or Ravioli, Penne, Lasagna, Lasagne",type,lasagne
+meat sauce,pasta,pastas,Sauce,"Meat Sauce, Marinara Sauce, Alfredo, Spicy Tomato Pepper Sauce, Creamy Basil",sauce,meat sauce
+marinara sauce,pasta,pastas,Sauce,"Meat Sauce, Marinara Sauce, Alfredo, Spicy Tomato Pepper Sauce, Creamy Basil",sauce,marinara sauce
+alfredo,pasta,pastas,Sauce,"Meat Sauce, Marinara Sauce, Alfredo, Spicy Tomato Pepper Sauce, Creamy Basil",sauce,alfredo
+spicy tomato pepper sauce,pasta,pastas,Sauce,"Meat Sauce, Marinara Sauce, Alfredo, Spicy Tomato Pepper Sauce, Creamy Basil",sauce,spicy tomato pepper sauce
+creamy basil,pasta,pastas,Sauce,"Meat Sauce, Marinara Sauce, Alfredo, Spicy Tomato Pepper Sauce, Creamy Basil",sauce,creamy basil
+provolone,pasta,pastas,Cheese,"Provolone, Mozzarella, Parmesan, Ricotta, Romano",cheese,provolone
+mozzarella,pasta,pastas,Cheese,"Provolone, Mozzarella, Parmesan, Ricotta, Romano",cheese,mozzarella
+parmesan,pasta,pastas,Cheese,"Provolone, Mozzarella, Parmesan, Ricotta, Romano",cheese,parmesan
+ricotta,pasta,pastas,Cheese,"Provolone, Mozzarella, Parmesan, Ricotta, Romano",cheese,ricotta
+romano,pasta,pastas,Cheese,"Provolone, Mozzarella, Parmesan, Ricotta, Romano",cheese,romano
+italian meatballs,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,italian meatballs
+grape tomatoes,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,grape tomatoes
+sausage,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,sausage
+garlic-roasted mushrooms,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,garlic-roasted mushrooms
+bacon,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,bacon
+peas,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,peas
+black pepper,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,black pepper
+house-roasted chicken,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,house-roasted chicken
+roasted chicken,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,roasted chicken
+fresh spinach,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,fresh spinach
+broccoli,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,broccoli
+fire-roasted tomatoes,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,fire-roasted tomatoes
+pepperoni,pasta,pastas,Topping,"Italian Meatballs, Grape Tomatoes, Sausage, Garlic-Roasted Mushrooms, Bacon, peas, black pepper, House-Roasted Chicken, Roasted Chicken, Fresh Spinach, Broccoli, Fire-Roasted Tomatoes, Pepperoni",top,pepperoni
+vegetable,salad,salads,Type,Vegetable and Non Vegetable.,type,vegetable
+non vegetable,salad,salads,Type,Vegetable and Non Vegetable.,type,non vegetable
+,salad,salads,Type,Vegetable and Non Vegetable.,type,
+romain lettuce,salad,salads,Base,Romain lettuce,base,romain lettuce
+house-roasted chicken,salad,salads,Toppings,"house-roasted chicken, crispy bacon, grape tomatoes, crunchy Focaccia croutons, red onion",Toppings,house-roasted chicken
+crispy bacon,salad,salads,Toppings,"house-roasted chicken, crispy bacon, grape tomatoes, crunchy Focaccia croutons, red onion",Toppings,crispy bacon
+grape tomatoes,salad,salads,Toppings,"house-roasted chicken, crispy bacon, grape tomatoes, crunchy Focaccia croutons, red onion",Toppings,grape tomatoes
+crunchy focaccia croutons,salad,salads,Toppings,"house-roasted chicken, crispy bacon, grape tomatoes, crunchy Focaccia croutons, red onion",Toppings,crunchy focaccia croutons
+red onion,salad,salads,Toppings,"house-roasted chicken, crispy bacon, grape tomatoes, crunchy Focaccia croutons, red onion",Toppings,red onion
+shaved parmesan,salad,salads,Cheese,"shaved Parmesan, Mozzarella",cheese,shaved parmesan
+mozzarella,salad,salads,Cheese,"shaved Parmesan, Mozzarella",cheese,mozzarella
+,salad,salads,Sauce,,sauce,
+caesar,salad,salads,Dressing,Caesar,dressing,caesar
+vegetable,subway,subway,Type,Vegetable and Non Vegetable.,type,vegetable
+non vegetable,subway,subway,Type,Vegetable and Non Vegetable.,type,non vegetable
+,subway,subway,Type,Vegetable and Non Vegetable.,type,
+garlic sub roll,subway,subway,Base,Garlic sub roll,base,garlic sub roll
+meatballs,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,meatballs
+pepperoni,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,pepperoni
+genoa salami,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,genoa salami
+capicola,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,capicola
+ham,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,ham
+smoked turkey,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,smoked turkey
+crispy bacon,subway,subway,Toppings,"Meatballs, Pepperoni, Genoa Salami, Capicola, Ham, Smoked Turkey, crispy Bacon",Toppings,crispy bacon
+sliced mozzarella cheese,subway,subway,Cheese,sliced Mozzarella cheese,cheese,sliced mozzarella cheese
+parmesan peppercorn ranch,subway,subway,Dressing,Parmesan Peppercorn Ranch,dressing,parmesan peppercorn ranch
+vegetable,pizza,pizzas,Type,Vegetable and Non Vegetable.,type,vegetable
+non vegetable,pizza,pizzas,Type,Vegetable and Non Vegetable.,type,non vegetable
+,pizza,pizzas,Type,Vegetable and Non Vegetable.,type,
+hand tossed,pizza,pizzas,Crust,"Hand tossed, Gluten free, Brooklyn style, handmade pan, crunchy thin crust",Crust,hand tossed
+gluten free,pizza,pizzas,Crust,"Hand tossed, Gluten free, Brooklyn style, handmade pan, crunchy thin crust",Crust,gluten free
+brooklyn style,pizza,pizzas,Crust,"Hand tossed, Gluten free, Brooklyn style, handmade pan, crunchy thin crust",Crust,brooklyn style
+handmade pan,pizza,pizzas,Crust,"Hand tossed, Gluten free, Brooklyn style, handmade pan, crunchy thin crust",Crust,handmade pan
+crunchy thin crust,pizza,pizzas,Crust,"Hand tossed, Gluten free, Brooklyn style, handmade pan, crunchy thin crust",Crust,crunchy thin crust
+small,pizza,pizzas,Size,"Small, Large, Medium and Extra large,",Size,small
+large,pizza,pizzas,Size,"Small, Large, Medium and Extra large,",Size,large
+medium,pizza,pizzas,Size,"Small, Large, Medium and Extra large,",Size,medium
+extra large,pizza,pizzas,Size,"Small, Large, Medium and Extra large,",Size,extra large
+,pizza,pizzas,Size,"Small, Large, Medium and Extra large,",Size,
+hot sauce,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,hot sauce
+jalapeno peppers,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,jalapeno peppers
+onions,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,onions
+banana peppers,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,banana peppers
+diced tomatoes,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,diced tomatoes
+black olives,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,black olives
+mushrooms,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,mushrooms
+pineapple,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,pineapple
+green peppers,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,green peppers
+spinach,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,spinach
+roasted red peppers,pizza,pizzas,Veg Toppings,"Hot Sauce, Jalapeno Peppers, Onions, Banana Peppers, Diced Tomatoes, Black Olives, Mushrooms, Pineapple, Green Peppers, Spinach, Roasted Red Peppers",veg,roasted red peppers
+italian sausage,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,italian sausage
+premium chicken,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,premium chicken
+bacon,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,bacon
+philly steak,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,philly steak
+pepperoni,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,pepperoni
+salami,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,salami
+beef,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,beef
+ham,pizza,pizzas,Meat(Non veg) Toppings,"Italian Sausage, Premium Chicken, Bacon, Philly Steak, Pepperoni, Salami, Beef and Ham",meat,ham
+shredded provolone cheese,pizza,pizzas,Cheese Topping,"Shredded Provolone Cheese, Cheddar Cheese, Feta Cheese and Shredded Parmesan Asiago",cheese,shredded provolone cheese
+cheddar cheese,pizza,pizzas,Cheese Topping,"Shredded Provolone Cheese, Cheddar Cheese, Feta Cheese and Shredded Parmesan Asiago",cheese,cheddar cheese
+feta cheese,pizza,pizzas,Cheese Topping,"Shredded Provolone Cheese, Cheddar Cheese, Feta Cheese and Shredded Parmesan Asiago",cheese,feta cheese
+shredded parmesan asiago,pizza,pizzas,Cheese Topping,"Shredded Provolone Cheese, Cheddar Cheese, Feta Cheese and Shredded Parmesan Asiago",cheese,shredded parmesan asiago
+light,pizza,pizzas,Topping Quantity,"Light, Normal, Extra and Double",top,light
+normal,pizza,pizzas,Topping Quantity,"Light, Normal, Extra and Double",top,normal
+extra,pizza,pizzas,Topping Quantity,"Light, Normal, Extra and Double",top,extra
+double,pizza,pizzas,Topping Quantity,"Light, Normal, Extra and Double",top,double
+robust inspired tomato sauce,pizza,pizzas,Sauce,"Robust Inspired Tomato Sauce, 
+Hearty Marinara Sauce, BBQ Sauce, Garlic Parmesan White Sauce and Alfredo Sauce",sauce,robust inspired tomato sauce
+"
+hearty marinara sauce",pizza,pizzas,Sauce,"Robust Inspired Tomato Sauce, 
+Hearty Marinara Sauce, BBQ Sauce, Garlic Parmesan White Sauce and Alfredo Sauce",sauce,"
+hearty marinara sauce"
+bbq sauce,pizza,pizzas,Sauce,"Robust Inspired Tomato Sauce, 
+Hearty Marinara Sauce, BBQ Sauce, Garlic Parmesan White Sauce and Alfredo Sauce",sauce,bbq sauce
+garlic parmesan white sauce,pizza,pizzas,Sauce,"Robust Inspired Tomato Sauce, 
+Hearty Marinara Sauce, BBQ Sauce, Garlic Parmesan White Sauce and Alfredo Sauce",sauce,garlic parmesan white sauce
+alfredo sauce,pizza,pizzas,Sauce,"Robust Inspired Tomato Sauce, 
+Hearty Marinara Sauce, BBQ Sauce, Garlic Parmesan White Sauce and Alfredo Sauce",sauce,alfredo sauce
+light,pizza,pizzas,Sauce Quantity,"Light, Normal and Extra",sauce,light
+normal,pizza,pizzas,Sauce Quantity,"Light, Normal and Extra",sauce,normal
+extra,pizza,pizzas,Sauce Quantity,"Light, Normal and Extra",sauce,extra
+light,pizza,pizzas,Cheese(base),"Light, Normal and Extra",cheese,light
+normal,pizza,pizzas,Cheese(base),"Light, Normal and Extra",cheese,normal
+extra,pizza,pizzas,Cheese(base),"Light, Normal and Extra",cheese,extra
+cheesecake,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,cheesecake
+brownie,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,brownie
+ice cream,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,ice cream
+cookie,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,cookie
+bread twists,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,bread twists
+muffin,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,muffin
+pastry,dessert,desserts,Type,"Cheesecake, brownie, ice cream, cookie, bread twists, Muffin, Pastry",type,pastry
+chocolate,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,chocolate
+strawberry,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,strawberry
+butterscotch,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,butterscotch
+vanilla,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,vanilla
+caramel,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,caramel
+cinnamon etc,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,cinnamon etc
+,dessert,desserts,Flavour,"Chocolate, Strawberry, Butterscotch, Vanilla, Caramel, Cinnamon etc.",Flavour,
+chocolate chips,dessert,desserts,Toppings,"Chocolate chips, Chocolate chunk,",Toppings,chocolate chips
+chocolate chunk,dessert,desserts,Toppings,"Chocolate chips, Chocolate chunk,",Toppings,chocolate chunk
+,dessert,desserts,Toppings,"Chocolate chips, Chocolate chunk,",Toppings,
+hot chocolate sauce,dessert,desserts,Sauce,Hot chocolate sauce,sauce,hot chocolate sauce
+icing dipping sauce,dessert,desserts,sides/Dip,Icing Dipping Sauce,side,icing dipping sauce
+ghirardelli chocolate,dessert,desserts,Chocolate type,Ghirardelli Chocolate.,chocolate,ghirardelli chocolate
+,dessert,desserts,Chocolate type,Ghirardelli Chocolate.,chocolate,
+hard,drink,drinks,Type,"Hard, Soft",type,hard
+soft,drink,drinks,Type,"Hard, Soft",type,soft
+chocolate,drink,drinks,Flavour,"Chocolate, Lemon, Fizzy",Flavour,chocolate
+lemon,drink,drinks,Flavour,"Chocolate, Lemon, Fizzy",Flavour,lemon
+fizzy,drink,drinks,Flavour,"Chocolate, Lemon, Fizzy",Flavour,fizzy
+cold,drink,drinks,Serving Temp,"Cold, hot, Chilled",serve,cold
+hot,drink,drinks,Serving Temp,"Cold, hot, Chilled",serve,hot
+chilled,drink,drinks,Serving Temp,"Cold, hot, Chilled",serve,chilled
+white,drink,drinks,Color,"White, Yellow, black",Color,white
+yellow,drink,drinks,Color,"White, Yellow, black",Color,yellow
+black,drink,drinks,Color,"White, Yellow, black",Color,black
+honey wheat bread,sandwich,sandwich,Bread,Honey wheat bread,bread,honey wheat bread
+cheddar cheese,sandwich,sandwich,Cheese,Cheddar cheese,cheese,cheddar cheese
+tomato,sandwich,sandwich,Toppings,"Tomato, Red onion, Leaf lettuce, Pepper bacon, Roast turkey",Toppings,tomato
+red onion,sandwich,sandwich,Toppings,"Tomato, Red onion, Leaf lettuce, Pepper bacon, Roast turkey",Toppings,red onion
+leaf lettuce,sandwich,sandwich,Toppings,"Tomato, Red onion, Leaf lettuce, Pepper bacon, Roast turkey",Toppings,leaf lettuce
+pepper bacon,sandwich,sandwich,Toppings,"Tomato, Red onion, Leaf lettuce, Pepper bacon, Roast turkey",Toppings,pepper bacon
+roast turkey,sandwich,sandwich,Toppings,"Tomato, Red onion, Leaf lettuce, Pepper bacon, Roast turkey",Toppings,roast turkey
+,sandwich,sandwich,Sauce,,sauce,
+parmesan peppercorn ranch,sandwich,sandwich,Dressing,Parmesan Peppercorn ranch,dressing,parmesan peppercorn ranch
+mini bun,burger,burgers,Bread,Mini Bun,bread,mini bun
+chicken tender,burger,burgers,Topping,Chicken tender,top,chicken tender
+parmesan peppercorn ranch sauce,burger,burgers,Dressing,Parmesan peppercorn ranch sauce,dressing,parmesan peppercorn ranch sauce
+,burger,burgers,Cheese,,cheese,
+spicy buffalo sauce,burger,burgers,Sauce,Spicy buffalo sauce,sauce,spicy buffalo sauce
+grain wrap,wrap,wraps,Bread,Grain wrap,bread,grain wrap
+pepper bacon,wrap,wraps,Toppings,"Pepper bacon, Roast Turkey, Tomato, Red Onion, Leaf Lettuce",Toppings,pepper bacon
+roast turkey,wrap,wraps,Toppings,"Pepper bacon, Roast Turkey, Tomato, Red Onion, Leaf Lettuce",Toppings,roast turkey
+tomato,wrap,wraps,Toppings,"Pepper bacon, Roast Turkey, Tomato, Red Onion, Leaf Lettuce",Toppings,tomato
+red onion,wrap,wraps,Toppings,"Pepper bacon, Roast Turkey, Tomato, Red Onion, Leaf Lettuce",Toppings,red onion
+leaf lettuce,wrap,wraps,Toppings,"Pepper bacon, Roast Turkey, Tomato, Red Onion, Leaf Lettuce",Toppings,leaf lettuce
+cheddar cheese,wrap,wraps,Cheese,Cheddar Cheese,cheese,cheddar cheese
+parmesan peppercorn ranch sauce,wrap,wraps,Dressing,Parmesan peppercorn ranch sauce,dressing,parmesan peppercorn ranch sauce
+,wrap,wraps,Sauce,,sauce,
